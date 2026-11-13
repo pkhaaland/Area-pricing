@@ -1,0 +1,4 @@
+Resource;Zone;Area_Type;Land_use_m2_per_MW;New_Build;Can_Retire;Existing_Cap_MW;Max_Cap_MW;Min_Cap_MW;Inv_Cost_per_MWyr;Fixed_OM_Cost_per_MWyr;Var_OM_Cost_per_MWh;Heat_Rate_MMBTU_per_MWh;Fuel;region;cluster;Min_Power;Ramp_Up_Percentage;Ramp_Dn_Percentage;Hydro_Energy_to_Power_Ratio;LDS;Reg_Cost;Rsv_Cost;Reg_Max;Rsv_Max
+Skandi_conventional_hydroelectric;1;Forest;0;0;0;43112.3;-1;0;247877.7047;2106.96049;0.3712;9.12;None;Skandi;1;0;0.083;0.083;2185.06291;1;0.006916667;0.013833333;0;0
+Cont_conventional_hydroelectric;2;Forest;0;0;0;1448.78;-1;0;247877.7047;2106.96049;0.3712;9.12;None;Cont;1;0;0.083;0.083;207.0707768;1;0.006916667;0.013833333;0;0
+UK_conventional_hydroelectric;3;Forest;0;0;0;1356.9;-1;0;247877.7047;2106.96049;0.3712;9.12;None;UK;1;0;0.083;0.083;818.21901;1;0.006916667;0.013833333;0;0

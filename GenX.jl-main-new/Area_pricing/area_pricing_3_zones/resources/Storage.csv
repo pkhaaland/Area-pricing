@@ -1,0 +1,7 @@
+Resource;Zone;Model;Area_Type;Land_Use_m2_per_MW;New_Build;Can_Retire;Existing_Cap_MW;Existing_Cap_MWh;Max_Cap_MW;Max_Cap_MWh;Min_Cap_MW;Min_Cap_MWh;Inv_Cost_per_MWyr;Inv_Cost_per_MWhyr;Fixed_OM_Cost_per_MWyr;Fixed_OM_Cost_per_MWhyr;Var_OM_Cost_per_MWh;Var_OM_Cost_per_MWh_In;Self_Disch;Eff_Up;Eff_Down;Min_Duration;Max_Duration;Reg_Max;Rsv_Max;Reg_Cost;Rsv_Cost;region;cluster
+Skandi_pumped_hydro_storage;1;1;Forest;0;0;1;1064.7;9326772;-1;-1;0;0;70952.4573;1.00E+12;1809;0;0.47;0;0;0.866;0.866;0;8760;0.083333333;0.166666667;0;0;Skandi;0
+Cont_pumped_hydro_storage;2;1;Forest;0;0;1;10691.8;93660168;-1;-1;0;0;70952.4573;1.00E+12;1809;0;0.47;0;0;0.866;0.866;0;8760;0.083333333;0.166666667;0;0;Cont;0
+UK_pumped_hydro_storage;3;1;Forest;0;0;1;2900;25404000;-1;-1;0;0;70952.4573;1.00E+12;1809;0;0.47;0;0;0.866;0.866;0;8760;0.083333333;0.166666667;0;0;UK;0
+Skandi_battery;1;1;Forest;404.68;0;1;0;0;-1;-1;0;0;66681.11937;16670.27984;20166;5041.5;0;0;0;0.92;0.92;1;4;0;0;0;0;Skandi;0
+Cont_battery;2;1;Forest;404.68;0;1;11403.16;45612.64;-1;-1;0;0;66681.11937;16670.27984;20166;5041.5;0;0;0;0.92;0.92;1;4;0;0;0;0;Cont;0
+UK_battery;3;1;Forest;404.68;0;1;0;0;-1;-1;0;0;66681.11937;16670.27984;20166;5041.5;0;0;0;0.92;0.92;1;4;0;0;0;0;UK;0
